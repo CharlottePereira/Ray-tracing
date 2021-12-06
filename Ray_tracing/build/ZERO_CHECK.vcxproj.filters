@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Game3\PEREIRA Charlotte\Ray tracing\build\CMakeFiles\e445917da902189392f815e9bb58e5a4\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BC58941F-95B4-3484-90DA-D9ECFB0FBB43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
